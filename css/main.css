@@ -1,4 +1,18 @@
+html, body {
+    height: 100%;
+}
+
+
 .page-wrapper {
     display:flex;
+    height: 100%;
 
+}
+
+#arrows {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80%;
+    width: 20%;
 }
